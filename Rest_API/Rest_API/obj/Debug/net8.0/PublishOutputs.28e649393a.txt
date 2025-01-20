@@ -1,0 +1,7 @@
+D:\GRADWORK\API_CICD\Rest_API\Rest_API\obj\Debug\net8.0\PubTmp\Out\Rest_API.exe
+D:\GRADWORK\API_CICD\Rest_API\Rest_API\obj\Debug\net8.0\PubTmp\Out\appsettings.Development.json
+D:\GRADWORK\API_CICD\Rest_API\Rest_API\obj\Debug\net8.0\PubTmp\Out\appsettings.json
+D:\GRADWORK\API_CICD\Rest_API\Rest_API\obj\Debug\net8.0\PubTmp\Out\Rest_API.dll
+D:\GRADWORK\API_CICD\Rest_API\Rest_API\obj\Debug\net8.0\PubTmp\Out\Rest_API.deps.json
+D:\GRADWORK\API_CICD\Rest_API\Rest_API\obj\Debug\net8.0\PubTmp\Out\Rest_API.runtimeconfig.json
+D:\GRADWORK\API_CICD\Rest_API\Rest_API\obj\Debug\net8.0\PubTmp\Out\Rest_API.pdb
