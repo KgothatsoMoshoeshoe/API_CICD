@@ -1,0 +1,6 @@
+D:\GRADWORK\API_CICD\Rest_API\LambdaFunction\LambdaFunction\obj\Debug\net8.0\LambdaFunction.csproj.AssemblyReference.cache
+D:\GRADWORK\API_CICD\Rest_API\LambdaFunction\LambdaFunction\obj\Debug\net8.0\LambdaFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\GRADWORK\API_CICD\Rest_API\LambdaFunction\LambdaFunction\obj\Debug\net8.0\LambdaFunction.AssemblyInfoInputs.cache
+D:\GRADWORK\API_CICD\Rest_API\LambdaFunction\LambdaFunction\obj\Debug\net8.0\LambdaFunction.AssemblyInfo.cs
+D:\GRADWORK\API_CICD\Rest_API\LambdaFunction\LambdaFunction\obj\Debug\net8.0\LambdaFunction.csproj.CoreCompileInputs.cache
+D:\GRADWORK\API_CICD\Rest_API\LambdaFunction\LambdaFunction\obj\Debug\net8.0\LambdaFunction.sourcelink.json
