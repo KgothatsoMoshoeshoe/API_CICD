@@ -24,10 +24,10 @@ jobs:
         dotnet-version: 8.0.x
 
     - name: Restore dependencies
-      run: dotnet restore
+      run: dotnet restore Rest_API/Rest_API.sln
 
     - name: Build
-      run: dotnet build --no-restore
+      run: dotnet build Rest_API/Rest_API.sln --no-restore
 
     - name: Test
-      run: dotnet test --no-build --verbosity normal
+      run: dotnet test Rest_API/Rest_API/Rest_API.csproj --no-build --verbosity normal
